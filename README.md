@@ -6,7 +6,7 @@
 -  I'm Kheira, a CS student intrested in Networking
 -  Passionate bout CyberSecurity, web-development & lot more...
 -  Always striving to learn new Things 💪 in order to acheive future progress n Goals ✌️
--  I love to learn and share my knowledge so Never Hesitate asking for Help
+-  I love to learn and share my knowledge so Never Hesitate asking for Help 😁
 
 
 ## 
@@ -19,7 +19,7 @@
 
 ## 
 
-##  Here's some useful Repositories that helps for self-improvement 🤓
+###  Here's some useful Repositories that helps for self-improvement 🤓
 
 
 
