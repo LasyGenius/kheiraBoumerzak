@@ -20,8 +20,6 @@
 
 
 ## 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kheiraBoumerzak)](https://github.com/anuraghazra/github-readme-stats)
-
 ##  Here's some useful Repositories that helps for self-improvement 🤓
 
 
